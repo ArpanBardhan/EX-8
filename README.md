@@ -43,11 +43,12 @@ while True:
 ```
 
 # OUTPUT :
+
 # CLIENT OUTPUT :
-![OUTPUT](./Screenshot%20(69).png)
+![OUTPUT](./Screenshot%20(70).png)
 
 # SERVER OUTPUT :
-![OUTPUT](./Screenshot%20(70).png)
+![OUTPUT](./Screenshot%20(69).png)
 
 
 # RESULT :
